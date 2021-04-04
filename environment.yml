@@ -41,4 +41,4 @@ dependencies:
   - zstd
   - pip:
     - opencv-python
-    - tensorflow-gpu==1.5
+    - tensorflow-gpu==1.15

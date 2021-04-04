@@ -40,5 +40,5 @@ dependencies:
   - zlib
   - zstd
   - pip:
-    - opencv-python==4.1
+    - opencv-python
     - tensorflow-gpu==1.5
